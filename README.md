@@ -1,5 +1,5 @@
 <p align="center">
-    <img width=50% src="https://github.com/GRELDAS/Pygame-labyrinth/blob/master/static/images/github/project-name.png">
+    <img width=100% src="https://github.com/GRELDAS/Pygame-labyrinth/blob/master/static/images/github/project-name.png">
 </p>
 <p align="center">
     <img width=35% src="https://github.com/GRELDAS/Pygame-labyrinth/blob/master/static/images/github/index.png">
